@@ -2,6 +2,7 @@ Cheat sheet for tmux
 --------------------
 
   For my little brains.
+  Seokju added 17.12.26
 
 ### Out session (@ original shell)
 
