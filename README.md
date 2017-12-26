@@ -19,8 +19,8 @@ Cheat sheet for tmux
 | ------ | ------- |
 | create window | `^b + c` |
 | rename window | `^b + ,` |
-| navigate window | `^b + n` `^b + p` `^b + l` `^b + [window-num]`|
-| terminate window | `^b + &` <br /> `tmux kill-window -t [window-num]` |
+| navigate window | `^b + n` <br/> `^b + p` <br/> `^b + l` <br/> `^b + [window-num]`|
+| terminate window | `^b + &` <br/> `tmux kill-window -t [window-num]` |
 | detach session | `^b + d` |
 | help | `^b + ?` |
 
@@ -28,8 +28,8 @@ Cheat sheet for tmux
 
 | action | command |
 | ------ | ------- |
-| split pane | `^b + %`  `^b + "` |
-| delete pane | `^b + x`  `^d` (no warning) |
+| split pane | `^b + %` <br/> `^b + "` |
+| delete pane | `^b + x` <br/> `^d` (no warning) |
 | select pane | `^b + arrow_key` |
 | resize pane | `^b + <M-arrow_key>` |
 
