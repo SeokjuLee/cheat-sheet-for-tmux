@@ -20,7 +20,7 @@ Cheat sheet for tmux
 | create window | `^b + c` |
 | rename window | `^b + ,` |
 | navigate window | `^b + n` `^b + p` `^b + l` `^b + [window-num]`|
-| terminate window | `^b + &` |
+| terminate window | `^b + &` `tmux kill-window -t window-number` |
 | detach session | `^b + d` |
 | help | `^b + ?` |
 
