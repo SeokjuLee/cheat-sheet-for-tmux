@@ -24,6 +24,7 @@ Cheat sheet for tmux
 | terminate window | `^b + &` <br/> `tmux kill-window -t [window-num]` |
 | detach session | `^b + d` |
 | help | `^b + ?` |
+| apply tmux.conf | `tmux source-file ~/.tmux.conf` |
 
 ### In window / pane
 
