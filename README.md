@@ -1,8 +1,8 @@
 Cheat sheet for tmux
 --------------------
 
-  For my little brains.
-  Seokju added 17.12.26
+  For my little brains. <br/>
+  Seokju modified on 17.12.26
 
 ### Out session (@ original shell)
 
