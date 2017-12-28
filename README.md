@@ -47,6 +47,16 @@ Color
   * add `set t_ut=` in `~/.vimrc`
   * add `setw -g xterm-keys on` and  `set -g default-terminal "screen-256color"` in `~/.tmux.conf`
 
+
+Useful apps
+-----------
+* mobaxterm: xwindow. SCP is faster than SFTP when synchronizaing files.
+* SublimeText SSH
+* SSHFS: Sync a directory with Windows directory such as DropBox
+* Xfe
+* caja (default)
+
+
 Reference
 ---------
 
