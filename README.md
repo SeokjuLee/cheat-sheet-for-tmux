@@ -51,8 +51,9 @@ Color
 Useful apps
 -----------
 * mobaxterm: xwindow. SCP is faster than SFTP when synchronizaing files.
+* WinSCP
 * SublimeText SSH
-* SSHFS: Sync a directory with Windows directory such as DropBox
+* SSHFS: Sync a directory with Windows one such as DropBox
 * Xfe
 * caja (default)
 
