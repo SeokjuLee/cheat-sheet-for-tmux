@@ -58,6 +58,25 @@ Useful apps
 * caja (default)
 
 
+Change SSH port
+-----------
+* Check current port
+```Shell
+sudo netstat -anp | grep LISTEN | grep sshd
+cat /etc/ssh/sshd_config | egrep ^\#?Port 
+```
+* Edit config
+```Shell
+vi /etc/ssh/sshd_config
+# Port 22 -> Port 1234
+```
+* Restart SSH
+```Shell
+sudo service sshd restart
+(or sudo service ssh restart)
+```
+
+
 Reference
 ---------
 
