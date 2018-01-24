@@ -77,6 +77,16 @@ sudo service sshd restart
 ```
 
 
+Setting XServer display
+-----------
+* Change Display offset as '11' in the MobaXTerm X Server setting
+```Shell
+echo $DISPLAY
+export DISPLAY=:11
+echo $DISPLAY
+```
+
+
 Reference
 ---------
 
