@@ -87,6 +87,11 @@ echo $DISPLAY
 ```
 
 
+caja default setting
+-----------
+sudo gsettings set org.mate.caja.preferences default-folder-viewer 'list-view'
+
+
 Reference
 ---------
 
